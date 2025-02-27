@@ -1,0 +1,9 @@
+{
+    "name": "Nightly artifacts cleanup [pub]",
+    "description": "Help you maintain your action artifacts size under the limits.",
+    "iconName": "container",
+    "categories": [
+        "Automation"
+    ],
+    "filePatterns": []
+}
